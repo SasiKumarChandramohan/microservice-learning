@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: learninga
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sasik
+Implementation-Vendor-Id: com.bootlearning
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/learninga/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
